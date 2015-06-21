@@ -1,5 +1,7 @@
 # cool-face-loading-spinners
-## ꒰･◡･๑꒱
+<div style="text-align:center" markdown="1">
+## (っ◕‿◕)っ ♥ ꒰･◡･๑꒱
+</div>
 
 Run: 
 
