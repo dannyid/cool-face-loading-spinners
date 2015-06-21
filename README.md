@@ -1,5 +1,5 @@
 # <div align="center">cool-face-loading-spinners</div>
-### <div align="center">(っ◕‿◕)っ <img src="img/dancing-face.gif?raw=true"/> ꒰･◡･๑꒱</div>
+### <div align="center">(っ◕‿◕)っ <img style="width: 96px;" src="img/dancing-face.gif?raw=true"/> ꒰･◡･๑꒱</div>
 
 Run:
 
