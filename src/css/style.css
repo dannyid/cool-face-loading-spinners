@@ -1,4 +1,49 @@
+@keyframes pulse {
+  33% {
+    transform: translateY(5px); }
+  66% {
+    transform: translateY(5px); }
+  100% {
+    transform: translateY(0); } 
+}
+
 .face-spinner {
   font-size: 48px;
-  color: red;
 } 
+
+.face-spinner span:nth-child(10n + 1) {
+  animation: pulse 0.6s 0.07s infinite ease-in-out;
+}
+
+.face-spinner span:nth-child(10n + 2) {
+  animation: pulse 0.6s 0.14s infinite ease-in-out;
+}
+
+.face-spinner span:nth-child(10n + 3) {
+  animation: pulse 0.6s 0.21s infinite ease-in-out;
+}
+
+.face-spinner span:nth-child(10n + 4) {
+  animation: pulse 0.6s 0.28s infinite ease-in-out;
+}
+
+.face-spinner span:nth-child(10n + 5) {
+  animation: pulse 0.6s 0.35s infinite ease-in-out;
+}
+
+.face-spinner span:nth-child(10n + 6) {
+  animation: pulse 0.6s 0.42s infinite ease-in-out;
+}
+
+.face-spinner span:nth-child(10n + 7) {
+  animation: pulse 0.6s 0.49s infinite ease-in-out;
+}
+
+.face-spinner span:nth-child(10n + 8) {
+  animation: pulse 0.6s 0.56s infinite ease-in-out;
+}
+
+.face-spinner span:nth-child(10n + 9) {
+  animation: pulse 0.6s 0.63s infinite ease-in-out;
+}
+
