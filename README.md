@@ -1,5 +1,3 @@
-h2 { text-align: center; }
-
 # cool-face-loading-spinners
 ## (っ◕‿◕)っ ♥ ꒰･◡･๑꒱
 
