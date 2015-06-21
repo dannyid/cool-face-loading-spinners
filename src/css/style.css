@@ -9,6 +9,7 @@
 
 .face-spinner {
   font-size: 48px;
+  font-family: monospace, sans-serif;
 } 
 
 .face-spinner span:nth-child(10n + 1) {
