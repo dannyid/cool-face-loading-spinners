@@ -1,5 +1,7 @@
 # cool-face-loading-spinners
 
+## ꒰･◡･๑꒱
+
 Run: 
 
     git clone https://github.com/dannyid/cool-face-loading-spinners.git;
