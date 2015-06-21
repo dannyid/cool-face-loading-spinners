@@ -1,7 +1,7 @@
+h2 { text-align: center; }
+
 # cool-face-loading-spinners
-<div style="text-align:center" markdown="1">
 ## (っ◕‿◕)っ ♥ ꒰･◡･๑꒱
-</div>
 
 Run: 
 
