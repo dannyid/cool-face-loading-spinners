@@ -1,0 +1,7 @@
+node_modules
+*.DS_*
+.env
+*.swp
+*.swo
+dist
+.idea/**/*
