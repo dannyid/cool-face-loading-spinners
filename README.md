@@ -1,5 +1,5 @@
 # cool-face-loading-spinners
-### (っ◕‿◕)っ ♥ ꒰･◡･๑꒱
+### <div align="center">(っ◕‿◕)っ ♥ ꒰･◡･๑꒱</div>
 
 Run:
 
