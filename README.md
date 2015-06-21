@@ -1,5 +1,5 @@
 # cool-face-loading-spinners
-## (っ◕‿◕)っ ♥ ꒰･◡･๑꒱
+### (っ◕‿◕)っ ♥ ꒰･◡･๑꒱
 
 Run: 
 
